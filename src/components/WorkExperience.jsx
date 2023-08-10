@@ -19,7 +19,7 @@ const WorkExperience = () => {
                 <ul className='pt-3'>
                     <li className='flex px-3 pt-1'><GoDotFill size={15} className='ml-1'/>An Admin</li>
                     <li className='flex px-3 pt-1'><GoDotFill size={15} className='ml-1'/>A Front-End Developer</li>
-                    <li className='flex px-3 pt-1'><GoDotFill size={15} className='ml-1'/>A Search Engine Optimizer (SEO) in Wordpress</li>
+                    <li className='flex px-3 pt-1'><GoDotFill size={15} className='ml-1'/>A Search Engine Optimizer (SEO) using Wordpress</li>
                 </ul>
             </div>
         </div>
